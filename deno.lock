@@ -1,0 +1,25 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:proxy-socks": "npm:proxy-socks@0.0.0",
+      "npm:proxy-socks@0.0.1": "npm:proxy-socks@0.0.1",
+      "npm:proxy-socks@0.0.2": "npm:proxy-socks@0.0.2"
+    },
+    "npm": {
+      "proxy-socks@0.0.0": {
+        "integrity": "sha512-Nf2Y+uhlOcsu0K0fdgc2SO2CGk3edRfqS4a82R4yP4l6XZJnwBEeg8GYyXlK3JLx7/Cn0FGOivf+BmgLvSfztA==",
+        "dependencies": {}
+      },
+      "proxy-socks@0.0.1": {
+        "integrity": "sha512-vTaDzl80Xjn9/U4cc6TGzqwK5091LyZrb12HdAGGRU4AZ9cMrBtK6HuH7A1BDp0phoI5UJB0kqIpwgUGYtd7Dw==",
+        "dependencies": {}
+      },
+      "proxy-socks@0.0.2": {
+        "integrity": "sha512-lHZiEQnB6CPQhy7AezRAP7fTB0GpJTZjjIzYb5DzQJKXUAm+Djfe0cB7pB3lMv7jsUR3gy2QaFFReZNN4s6wZA==",
+        "dependencies": {}
+      }
+    }
+  },
+  "remote": {}
+}
