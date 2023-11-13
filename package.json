@@ -1,0 +1,8 @@
+{
+  "name": "prox-socks-server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "deno run -r --allow-all --watch ./index.mjs"
+  }
+}
