@@ -6,6 +6,7 @@ const server = new Server(
     strategy: "random",
   }
 );
+console.log({ secret });
 Deno.serve((req) => {
   if (req.headers.get("upgrade") !== "websocket") {
     return server.fetch(req);
