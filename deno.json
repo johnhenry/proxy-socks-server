@@ -1,5 +1,5 @@
 {
   "tasks": {
-    "start": "deno run -r --allow-all --watch ./index.mjs"
+    "start": "SECRET='12345' deno run -r --allow-all --watch ./index.mjs"
   }
 }

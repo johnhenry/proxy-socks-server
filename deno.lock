@@ -4,7 +4,8 @@
     "specifiers": {
       "npm:proxy-socks": "npm:proxy-socks@0.0.0",
       "npm:proxy-socks@0.0.1": "npm:proxy-socks@0.0.1",
-      "npm:proxy-socks@0.0.2": "npm:proxy-socks@0.0.2"
+      "npm:proxy-socks@0.0.2": "npm:proxy-socks@0.0.2",
+      "npm:proxy-socks@0.0.3": "npm:proxy-socks@0.0.3"
     },
     "npm": {
       "proxy-socks@0.0.0": {
@@ -17,6 +18,10 @@
       },
       "proxy-socks@0.0.2": {
         "integrity": "sha512-lHZiEQnB6CPQhy7AezRAP7fTB0GpJTZjjIzYb5DzQJKXUAm+Djfe0cB7pB3lMv7jsUR3gy2QaFFReZNN4s6wZA==",
+        "dependencies": {}
+      },
+      "proxy-socks@0.0.3": {
+        "integrity": "sha512-iUOsmKEje8sEL00TbFddRrb7pQZHhhdm0GohYqYwAJs8ow+J/aciUY4mrxE2TIreH3lsNrruEOk7AINV6iRBkw==",
         "dependencies": {}
       }
     }
